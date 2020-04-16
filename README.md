@@ -1,68 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![N|Solid](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAN+SURBVFiFrZdPaBx1FMe/7zezM7tJuok1a4xN1kobKbZV0CKerIIUgocqEhH/gaAX/0SF3nqZg9JDTynUgxG0vdkgWNDWiyKIBy8lyaEKsi0txG2zMU2z2dmZ2d/8nqfGzMxvJ9uZ/m77ft/33mfnN/OdN4Qe19in50pSeZcA7NsSlgS8X595e3YzMuVYpcaV1dBt9v8vIxQr43PrP868Gq8regVQ7D4Zaw4ApgKqWwPlduuFaHMAYIShfFhX9y4A6Al9AZqP6CCP6HSGaV7KBcCkB5ACC9FA55BOpwz751wAxPy4JtxqDNauRBp1vL3JZELJ6vspO4DjCIAOaHYW4TgqAuC37o+LDLvfa8w5G5kBKqsTewAMaLYil7/02vFxFfhmXER26Ua32ubuT74e8hXtSSWg8FnWbzRHp795KlxZGvbcWxXeaB0OkVQKIdzyS8feTMb5N3rw47PXAYynAmyz3No8vOWrd51Hpq1E3uYAINtrmfJY+qLnp6B7FSB0m5nTcwOEXhMcylwAt3MBuOuZc8kssKmIJw0lDnYTMfERAK8kkolnoMRlKDVmV6qPcOA9HdxefjSuswYf+Jus4h9aALt4kbajHJ0+M8tE7yaSpbG7fvqNa3d+D0x++Gvw79LhuM4e3fte8/zJr7rV3/YeYFDCghlYq59+/frWmOp4E8lsgrSsi2n10wEcR4CwP1GWsABQxHGU364kitulTnvu86W0FpTmhIqMXQQ+r9n6jlid6Kw3dgRrN8dYoeTfrH0ZN0Gzf3DdHBz+oFvz3E7o36ihdXUxSyqAe+CEspX9EQTugROGbi4LAZDLCTmXCW0FyPQ3wvYGWIW5mqc7IfF+BqY1ed8S0y8IOvfZleoBZrkrWPnn+bjIHBhaM0rlH1IB0pxwZPrMR0R0KslFk/VTb23Od+Wjxz7z6rXjcZ09XP2+eWHm5TQAIOUeEN2mYCmjY3jgP6MtYFi/b9c8FYABHUCj8cU7kflOST/xAgKAQtG8kB1g6pwB4LF4mID5eEz5rZGErmCr1bkTlzMDPDTSmgDQF48zcWQKLk85O5XXtuI6w+671UvzrgChIbTnTxz7Cuq4L0IzBZNd7HlC1R8Bk3ZACYGI8bMMntMWFYUFXVy3Eh8RACCI/2LQCgBjM0hYXB6qRs+VCn8K01JKdsSdK0GmraxiYRY9rv8Af2dNRnuXG/EAAAAASUVORK5CYII=)](https://consume-local-29145.firebaseapp.com/)
+#  #ConsumeLocal
+Es un directorio de negocios locales esenciales que brindan servicio a domicilio y/o pide y pasa en diversas ciudades de México e incluso, comprar certificados de regalo.
 
-## Available Scripts
+### Contribuir
+¿Te gustaría contribuir? #ConsumeLocal esta hecho con React utilizando Antd y Firebase Javascript. Para el uso de mapas, utiliza Leaflet que es open source :)
 
-In the project directory, you can run:
+¡Cualquier ayuda es buena! Mandame un mensaje!
 
-### `npm start`
+#### License
+MIT
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# **Open Source, Hell Yeah!**
