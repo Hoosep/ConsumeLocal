@@ -1,4 +1,8 @@
-[![N|Solid](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAN+SURBVFiFrZdPaBx1FMe/7zezM7tJuok1a4xN1kobKbZV0CKerIIUgocqEhH/gaAX/0SF3nqZg9JDTynUgxG0vdkgWNDWiyKIBy8lyaEKsi0txG2zMU2z2dmZ2d/8nqfGzMxvJ9uZ/m77ft/33mfnN/OdN4Qe19in50pSeZcA7NsSlgS8X595e3YzMuVYpcaV1dBt9v8vIxQr43PrP868Gq8regVQ7D4Zaw4ApgKqWwPlduuFaHMAYIShfFhX9y4A6Al9AZqP6CCP6HSGaV7KBcCkB5ACC9FA55BOpwz751wAxPy4JtxqDNauRBp1vL3JZELJ6vspO4DjCIAOaHYW4TgqAuC37o+LDLvfa8w5G5kBKqsTewAMaLYil7/02vFxFfhmXER26Ua32ubuT74e8hXtSSWg8FnWbzRHp795KlxZGvbcWxXeaB0OkVQKIdzyS8feTMb5N3rw47PXAYynAmyz3No8vOWrd51Hpq1E3uYAINtrmfJY+qLnp6B7FSB0m5nTcwOEXhMcylwAt3MBuOuZc8kssKmIJw0lDnYTMfERAK8kkolnoMRlKDVmV6qPcOA9HdxefjSuswYf+Jus4h9aALt4kbajHJ0+M8tE7yaSpbG7fvqNa3d+D0x++Gvw79LhuM4e3fte8/zJr7rV3/YeYFDCghlYq59+/frWmOp4E8lsgrSsi2n10wEcR4CwP1GWsABQxHGU364kitulTnvu86W0FpTmhIqMXQQ+r9n6jlid6Kw3dgRrN8dYoeTfrH0ZN0Gzf3DdHBz+oFvz3E7o36ihdXUxSyqAe+CEspX9EQTugROGbi4LAZDLCTmXCW0FyPQ3wvYGWIW5mqc7IfF+BqY1ed8S0y8IOvfZleoBZrkrWPnn+bjIHBhaM0rlH1IB0pxwZPrMR0R0KslFk/VTb23Od+Wjxz7z6rXjcZ09XP2+eWHm5TQAIOUeEN2mYCmjY3jgP6MtYFi/b9c8FYABHUCj8cU7kflOST/xAgKAQtG8kB1g6pwB4LF4mID5eEz5rZGErmCr1bkTlzMDPDTSmgDQF48zcWQKLk85O5XXtuI6w+671UvzrgChIbTnTxz7Cuq4L0IzBZNd7HlC1R8Bk3ZACYGI8bMMntMWFYUFXVy3Eh8RACCI/2LQCgBjM0hYXB6qRs+VCn8K01JKdsSdK0GmraxiYRY9rv8Af2dNRnuXG/EAAAAASUVORK5CYII=)](https://consume-local-29145.firebaseapp.com/)
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/consume-local-29145.appspot.com/o/hashtag.png?alt=media&token=2a6c2530-5a46-498c-8a69-73c5033f8cdf" alt="ConsumeLocal Logo" >
+</p>
+
+
 #  #ConsumeLocal
 Es un directorio de negocios locales esenciales que brindan servicio a domicilio y/o pide y pasa en diversas ciudades de México e incluso, comprar certificados de regalo.
 
@@ -12,3 +16,4 @@ MIT
 
 
 # **Open Source, Hell Yeah!**
+
