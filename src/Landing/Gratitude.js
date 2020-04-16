@@ -25,6 +25,13 @@ const Faqs = props => {
       <Col xs={24} lg={12} style={{ minHeight: "100vh" }}>
         <h1 className="text-center font-weight-bold my-3">Agradecimientos</h1>
         <p className="text-center">Agradecemos a las siguientes organizaciones, empresas y personas que han apoyado esta causa.</p>
+        <h1 className="text-center font-weight-bold my-3">¿Te gustaría apoyar?</h1>
+        <p className="text-center mb-0">
+          Puedes apoyar en el repositorio de <a href="https://github.com/Hoosep/ConsumeLocal">Github</a> o mandando un mensaje a hoose.muu@gmail.com
+        </p>
+        <p className="text-center">
+          ¡Muchas gracias!
+        </p>
         <h1 className="text-center font-weight-bold mt-5 mb-3">¡Ayuda compartiendo!</h1>
         <p className="text-center">
           <FacebookShareButton
