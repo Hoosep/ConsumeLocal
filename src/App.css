@@ -1,38 +1,45 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+@import '~antd/dist/antd.css';
+@import '~bootuseful/bootuseful.min.css';
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#leaflet-map, .leaflet-container {
+  width: 100%!important;
+  height: 100%!important;
+}
+
+.ant-form-item-label > label {
+  font-size: 15px;
+  font-weight: 600;
+  color: #063651;
+}
+
+#mapSearchContainer {
+  position: fixed;
+  top: 20px;
+  right: 40px;
+  height: 30px;
+  width: 180px;
+  z-index: 110;
+  font-size: 10pt;
+  color: #5d5d5d;
+  border: solid 1px #bbb;
+  background-color: #f8f8f8;
+}
+
+.pointer {
+  position: absolute;
+  top: 86px;
+  left: 60px;
+  z-index: 99999;
+}
+
+.geocoder-control-input {
+  background-image: url("https://raw.githubusercontent.com/Esri/esri-leaflet-geocoder/master/src/img/search.png");
+}
+
+.ant-form-vertical .ant-form-item-label{
+  padding: 0;
 }
